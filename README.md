@@ -44,6 +44,8 @@
 
 ![Image](img/img_2.gif)
 
+Загрузил Unity проект с решением в репозиторий, в директорию MlAgentProject. Посмотреть можно [тут](https://github.com/ytkinroman/tekhnologii_programmirovaniya_2/blob/main/MlAgentProject).
+
 
 
 
