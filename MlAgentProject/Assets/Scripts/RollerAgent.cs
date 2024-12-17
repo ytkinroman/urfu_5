@@ -46,7 +46,7 @@ public class RollerAgent : Agent
 
         float distanceToTarget = Vector3.Distance(this.transform.localPosition, Target.localPosition);
 
-        if (distanceToTarget < 1.42f) {
+        if (distanceToTarget < 2.1f) {
             SetReward(1.0f);
             EndEpisode();
         }
